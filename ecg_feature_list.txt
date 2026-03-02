@@ -1,0 +1,101 @@
+ECG FEATURE ENGINEERING LIST
+
+TIER 1 — Core Clinical and Time-Domain Features
+
+1.  Mean Heart Rate
+
+Formula: MeanHeartRate = 60 / ( (1/N) * _{i=1}^{N} RR_i )
+
+2.  Standard Deviation of NN Intervals (SDNN)
+
+SDNN =
+
+where: {RR} = (1/N) * _{i=1}^{N} RR_i
+
+3.  Root Mean Square of Successive Differences (RMSSD)
+
+RMSSD =
+
+4.  Percentage of NN Intervals Differing by More Than 50 ms (pNN50)
+
+pNN50 = ( {i=1}^{N-1} I(|RR{i+1} - RR_i| > 0.05) ) / (N-1)
+
+5.  PR Interval Duration
+
+PR = t_{QRS onset} - t_{P onset}
+
+6.  QRS Duration
+
+QRS = t_{QRS offset} - t_{QRS onset}
+
+7.  QT Interval
+
+QT = t_{T offset} - t_{QRS onset}
+
+8.  Corrected QT Interval (Bazett)
+
+QTc = QT /
+
+9.  ST Segment Deviation
+
+ST_deviation = A_{ST} - A_{baseline}
+
+10. R-Wave Amplitude
+
+R_amplitude = A_{R peak} - A_{baseline}
+
+TIER 2 — Frequency-Domain and Morphological Features
+
+11. Low Frequency Power (LF)
+
+LF = _{0.04}^{0.15} P(f) df
+
+12. High Frequency Power (HF)
+
+HF = _{0.15}^{0.40} P(f) df
+
+13. LF/HF Ratio
+
+LF_HF_ratio = LF / HF
+
+14. Total Power
+
+TotalPower = _{0.04}^{0.40} P(f) df
+
+15. QRS Complex Area
+
+QRS_area = {t{on}}^{t_{off}} |x(t)| dt
+
+16. T-Wave Symmetry Index
+
+SymmetryIndex = (t_{T peak} - t_{T onset}) / (t_{T offset} - t_{T peak})
+
+17. Wavelet Energy at Scale j
+
+E_j = _{k} |W_j(k)|^2
+
+18. Spectral Entropy
+
+H = - _{i=1}^{M} p_i log(p_i)
+
+where: p_i = P(f_i) / _{j=1}^{M} P(f_j)
+
+TIER 3 — Nonlinear and Complexity Features
+
+19. Approximate Entropy (ApEn)
+
+ApEn(m,r,N) = ^m(r) - ^{m+1}(r)
+
+20. Sample Entropy (SampEn)
+
+SampEn(m,r,N) = -log(A/B)
+
+21. Detrended Fluctuation Analysis (DFA) Scaling Exponent
+
+F(n) =
+
+Scaling relation: F(n) ~ n^
+
+22. Higuchi Fractal Dimension
+
+D = log(L(k)) / log(1/k)
