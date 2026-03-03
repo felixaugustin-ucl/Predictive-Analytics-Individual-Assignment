@@ -58,18 +58,31 @@ DESTINATION
 
 After downloading and extracting the dataset:
 
-1.  Rename the extracted dataset folder to:
+1. Rename the extracted PhysioNet folder to:
 
-    ecg_data
+   ecg_data
 
-2.  Place it in the same directory as the notebook:
+2. Move the folder into the same directory as the notebook:
 
-project_folder/ │ ├── ECG-Analysis SCLY4.ipynb ├── ecg_data/ ← PhysioNet
-dataset goes here ├── README.md
+project_folder/
+│
+├── ECG-Analysis SCLY4.ipynb
+├── ecg_data/      
+├── Remaining_DX_Codes_SNOMED_Labels.csv
+├── README.md
 
-The notebook expects the dataset inside the folder:
+3. Move the file `Remaining_DX_Codes_SNOMED_Labels.csv` (included in this repository) 
+   into the `ecg_data` folder.
 
-    ./ecg_data/
+Final required structure:
+
+project_folder/
+│
+├── ECG-Analysis SCLY4.ipynb
+├── ecg_data/
+│   ├── WFDBRecords/
+│   ├── ... (other PhysioNet files)
+│   └── Remaining_DX_Codes_SNOMED_Labels.csv
 
 ------------------------------------------------------------------------
 
