@@ -77,16 +77,18 @@ project_folder/
 
 **Final required structure:**
 
-- `project_folder/`
-  - `ECG-Analysis SCLY4.ipynb`
-  - `README.md`
-  - `PROJECT_LOG.md`
-  - `ecg_feature_list.txt`
-  - `modelcard.png`
-  - `ecg_data/`
-    - `WFDBRecords/`
-    - *(other PhysioNet files)*
-    - `Remaining_DX_Codes_SNOMED_Labels.csv`
+<pre>
+project_folder/
+├── ECG-Analysis SCLY4.ipynb
+├── README.md
+├── PROJECT_LOG.md
+├── ecg_feature_list.txt
+├── modelcard.png
+└── ecg_data/
+    ├── WFDBRecords/
+    ├── ... (other PhysioNet files)
+    └── Remaining_DX_Codes_SNOMED_Labels.csv
+</pre>
 
 ------------------------------------------------------------------------
 
