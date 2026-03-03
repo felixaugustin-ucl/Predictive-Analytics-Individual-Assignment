@@ -64,12 +64,13 @@ After downloading and extracting the dataset:
 
 2. Move the folder into the same directory as the notebook:
 
+<pre>
 project_folder/
-│
 ├── ECG-Analysis SCLY4.ipynb
-├── ecg_data/      
+├── ecg_data/
 ├── Remaining_DX_Codes_SNOMED_Labels.csv
-├── README.md
+└── README.md
+</pre>
 
 3. Move the file `Remaining_DX_Codes_SNOMED_Labels.csv` (included in this repository) 
    into the `ecg_data` folder.
