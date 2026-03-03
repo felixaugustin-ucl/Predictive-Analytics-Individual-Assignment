@@ -1,0 +1,44 @@
+dx_code,preferred_label,fsn,active,status,error,source_url
+10370003,Rhythm from artificial pacing (finding),Rhythm from artificial pacing (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/10370003
+106068003,Atrial rhythm (finding),Atrial rhythm (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/106068003
+111288001,Ventricular flutter (disorder),Ventricular flutter (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/111288001
+164896001,Electrocardiographic ventricular fibrillation (finding),Electrocardiographic ventricular fibrillation (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/164896001
+17366009,Atrial arrhythmia (disorder),Atrial arrhythmia (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/17366009
+233892002,Ectopic atrial tachycardia (disorder),Ectopic atrial tachycardia (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/233892002
+251120003,Incomplete left bundle branch block (disorder),Incomplete left bundle branch block (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251120003
+251166008,Atrioventricular nodal re-entry tachycardia (disorder),Atrioventricular nodal re-entry tachycardia (disorder),FALSE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251166008
+251170000,Blocked premature atrial contraction (disorder),Blocked premature atrial contraction (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251170000
+251187003,Atrial escape complex (disorder),Atrial escape complex (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251187003
+251205003,Prolonged P wave (finding),Prolonged P wave (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251205003
+251223006,Tall P wave (finding),Tall P wave (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/251223006
+29320008,Ectopic rhythm (disorder),Ectopic rhythm (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/29320008
+365413008,Finding of electrocardiogram R wave (finding),Finding of electrocardiogram R wave (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/365413008
+418818005,Brugada syndrome (disorder),Brugada syndrome (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/418818005
+425856008,Electrocardiogram: paroxysmal ventricular tachycardia (finding),Electrocardiogram: paroxysmal ventricular tachycardia (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/425856008
+426183003,Electrocardiographic Mobitz type II atrioventricular block (finding),Electrocardiographic Mobitz type II atrioventricular block (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/426183003
+426627000,Electrocardiogram: bradycardia (finding),Electrocardiogram: bradycardia (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/426627000
+426648003,Electrocardiogram: junctional tachycardia (finding),Electrocardiogram: junctional tachycardia (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/426648003
+426664006,Electrocardiographic accelerated junctional rhythm (finding),Electrocardiographic accelerated junctional rhythm (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/426664006
+427172004,Electrocardiogram: premature ventricular contractions (finding),Electrocardiogram: premature ventricular contractions (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/427172004
+445118002,Left anterior fascicular block on electrocardiogram (finding),Left anterior fascicular block on electrocardiogram (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/445118002
+445211001,Left posterior fascicular block on electrocardiogram (finding),Left posterior fascicular block on electrocardiogram (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/445211001
+446813000,Left atrial hypertrophy (disorder),Left atrial hypertrophy (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/446813000
+49578007,Shortened PR interval (finding),Shortened PR interval (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/49578007
+50799005,Atrioventricular dissociation (disorder),Atrioventricular dissociation (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/50799005
+54329005,Acute myocardial infarction of anterior wall (disorder),Acute myocardial infarction of anterior wall (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/54329005
+55827005,Left ventricular hypertrophy (disorder),Left ventricular hypertrophy (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/55827005
+55930002,Electrocardiographic ST segment changes (finding),Electrocardiographic ST segment changes (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/55930002
+5609005,Sinus arrest (disorder),Sinus arrest (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/5609005
+57054005,Acute myocardial infarction (disorder),Acute myocardial infarction (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/57054005
+61277005,Accelerated idioventricular rhythm (disorder),Accelerated idioventricular rhythm (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/61277005
+61721007,Counterclockwise vectorcardiographic loop (finding),Counterclockwise vectorcardiographic loop (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/61721007
+63593006,Supraventricular premature beats (disorder),Supraventricular premature beats (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/63593006
+6374002,Bundle branch block (disorder),Bundle branch block (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/6374002
+65778007,Sinoatrial block (disorder),Sinoatrial block (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/65778007
+6.7741E+13,Left atrial enlargement (disorder),Left atrial enlargement (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/67741000119109
+6.7751E+13,Right atrial enlargement (disorder),Right atrial enlargement (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/67751000119106
+713426002,Electrocardiographic incomplete right bundle branch block (finding),Electrocardiographic incomplete right bundle branch block (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/713426002
+713427006,Electrocardiographic complete right bundle branch block (finding),Electrocardiographic complete right bundle branch block (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/713427006
+733534002,Electrocardiographic complete left bundle branch block (finding),Electrocardiographic complete left bundle branch block (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/733534002
+77867006,Shortened QT interval (finding),Shortened QT interval (finding),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/77867006
+81898007,Ventricular escape rhythm (disorder),Ventricular escape rhythm (disorder),TRUE,ok,,https://termbrowser.nhs.uk/sct-browser-api/snomed/uk-edition/v20251119/concepts/81898007
