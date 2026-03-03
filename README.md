@@ -18,7 +18,7 @@ All reported results and figures are embedded in the main notebook.
 
 ECG-Analysis SCLY4.ipynb → Main analysis notebook\
 PROJECT_LOG.md → Development log\
-modelcard.png → Model summary\
+modelcard.png → Model summary of final solution\
 ecg_feature_list.txt → Engineered feature list\
 README.md → This file
 
